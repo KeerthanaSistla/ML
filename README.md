@@ -1,2 +1,1 @@
-# ML
-Practicing ML
+We have started working with Machine Learning as a part of our 5th semister and this repository is to connect to my google colaboratory file. I hope to include important points from class and those from my discovery.
