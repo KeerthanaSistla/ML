@@ -1,8 +1,8 @@
 Link: https://www.researchgate.net/publication/254196943_Using_Random_Forest_to_Learn_Imbalanced_Data
 
-Link to PDF: https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf
-
 Abstract:
 In this paper we propose two ways to deal with the imbalanced data classification problem using random forest. One is based on cost sensitive learning, and the other is based on a sampling technique. Performance metrics such as precision and recall, false positive rate and false negative rate, F-measure and weighted accuracy are computed. Both methods are shown to improve the prediction accuracy of the minority class, and have favorable performance compared to the existing algorithms.
+
+Link to PDF: https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf 
 
 Google Colab Link: https://colab.research.google.com/drive/1HP0wc-ICK3JDkt6dTU6NdRRL3yedZGHX?usp=sharing
